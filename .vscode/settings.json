@@ -1,7 +1,7 @@
 {
     "editor.cursorStyle": "line",
     "workbench.activityBar.iconClickBehavior": "toggle",
-    "workbench.activityBar.location": "side",
+    "workbench.activityBar.location": "default",
     "workbench.colorCustomizations": {},
     "workbench.colorTheme": "GitHub Dark",
     "workbench.preferredDarkColorTheme": "Default Dark Modern",
